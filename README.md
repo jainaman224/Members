@@ -11,6 +11,8 @@ Guidelines
 This is the list of members of BVPMOSC.
 Feel free to add youself to the list (sorted alphabetically).
 
+If there is any doubt please ping at gitter. Have a look at our gitter badge.
+
 ## Template
 
 ```
